@@ -11,8 +11,9 @@ Data Science and Machine Learning are an essential part of our future. I conside
 #### Technologies I am learning and using.
 
 - Programming languages:
-
-
+  ![python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
+  ![text](https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg)
+  ![matlab](https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg)
 
 
 <!--
