@@ -3,7 +3,7 @@
 Data Science and Machine Learning are an essential part of our future. I consider myself as a disciplined, self-demanding, methodical and calm person. I possess an analytical, critical and practical thinking and skills to solve real and complex problems. From my point of view, the ability to adapt to the situation is fundamental to teamwork or working on my own, besides work with others is important to improve my knowledge and skills. I do believe my perseverance and my willingness to learn are my best virtues.
 
 - 🔭 I’m currently studying Data Science at Universitat Politècnica de València (UPV).
-- ⚙ I’m currently learning Deep Learning.
+- ⚙ Always learning more about Machine Learning.
 - 🛠 Looking forward to learn all about create apps, 3D modelling and visualization.
 - My hobbies are astronomy ✨, books 📖 and videogames 🎮.
 - 📫 Contact me at andrescalandin@gmail.com.
