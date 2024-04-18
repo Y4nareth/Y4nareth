@@ -24,7 +24,7 @@ Data Science and Machine Learning are an essential part of our future. I conside
   
 - Dashboards / Visualization:
 
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/microsoft_powerbi_logo_icon_169958.png" alt="Power Bi" width="120" height="60"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" width="200" height="40"> <img src="https://matplotlib.org/_static/logo_dark.svg" width="200" height="60"> <img src="[[https://commons.wikimedia.org/wiki/File:Plotly-logo.png#/media/File:Plotly-logo.png](https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png)](https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png)" width="200" height="60">
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/microsoft_powerbi_logo_icon_169958.png" alt="Power Bi" width="120" height="60"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" width="200" height="40"> <img src="https://matplotlib.org/_static/logo_dark.svg" width="200" height="60"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" width="200" height="60">
 
 - IDEs:
 
